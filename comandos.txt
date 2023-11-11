@@ -1,0 +1,10 @@
+sfc /scannow
+
+chkdsk /f /r
+
+ipconfig /flushdns
+/ registerdns
+/release
+/renew
+
+netsh winsock reset
