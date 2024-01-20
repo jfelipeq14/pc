@@ -1,0 +1,19 @@
+Limpiar el pc:
+
+1. CMD -> Administrador
+
+2. Copiar y pegar:
+
+ipconfig /flushdns
+
+ipconfig /registerdns
+
+ipconfig /release
+
+ipconfig /renew
+
+netsh winsock reset
+
+sfc /scannow
+
+chkdsk /f /r

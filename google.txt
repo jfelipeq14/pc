@@ -1,0 +1,24 @@
+buscar en google:
+
+- En ingles
+
+- Con comillas: ejemplo -> "Pesca"
+
+- Asterisco: Autocompleta -> Programacion con *(Phyton, Java, C#, JavaScript, Php)
+
+- Con guion: No muestra la palabra -> Juegos -deportes (No muestra juegos de deportes)
+
+- AND y OR:
+AND -> Agrupa dos terminos: FIFA AND PES
+OR -> Un termino u otro: PES OR FIFA
+
+- Site -> Buscar en el sitio especifico: site: udemy.com desarrollo web
+
+- Filetype -> Buscar archivos: sedego filetype: pdf
+
+- Intitle -> Busca en el titulo de las paginas:
+
+
+
+
+
