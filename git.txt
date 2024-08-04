@@ -1,16 +1,14 @@
-comandos de git & github
+----comandos de git & github----
 
+--CLONE REPOSITORY--
 git clone {link} => clonar un repositorio
 
-git branch => mostrar las ramas
+cd {nombreRepo}
 
-Si estas en la rama develop solamente usas: git branch feature/{username}/{fecha}/#{numbercard}
+--CREATE BRANCH TO WORK--
+git checkout -b {nombre de rama} => crear rama para trabajar
 
-git branch -m {rama en la que estoy } {nueva rama} => crea otra rama
-
-git checkout {nombre} => cambiar de rama
-
-git status => mirar que cambios hay
+--UPLOAD CHANGES--
 
 git add . => agregar todos los cambios
 
@@ -20,20 +18,18 @@ git push origin {nombre rama} => subir los cambios a la nube (github)
 
 in github:
 
-compare and pull request
+boton: compare and pull request => add description especified what change completed => create pull
 
-add description especified what change completed
+--GET CHANGES--
 
-assign people (jfelipeq14)
+En github (el repo que esta usando): synk fork => update branch
 
-create pull
+En terminal (ctrl + j) de vscode:
 
-__________________________________________________
+git checkout develop => cambiar a la rama de los cambios
 
 git fetch origin develop => revisar si hay cambios
 
 git pull origin develop => obtener los cambios
 
-when complete git pull: create new branch with name feature/{username}/{fecha}/#{number assigned}
-
-replay process
+repeat process without "cloning repository" that is, from "creating branch"

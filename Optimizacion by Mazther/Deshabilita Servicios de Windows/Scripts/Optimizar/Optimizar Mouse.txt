@@ -1,0 +1,11 @@
+En resumen, este comando del registro de Windows aumenta la sensibilidad del mouse y ajusta la suavidad del movimiento del cursor.
+
+Detalles:
+
+Sensibilidad del mouse: Se establece en 10, lo que significa que el cursor se moverá más rápido con cada movimiento físico del mouse.
+Curvas de suavizado: Se configuran curvas personalizadas para los ejes horizontal (X) y vertical (Y) del mouse. Estas curvas controlan cómo se traduce el movimiento del mouse en la pantalla.
+Aceleración del mouse: Se desactiva, lo que significa que la velocidad del cursor no aumentará con movimientos más rápidos del mouse.
+Umbral de doble clic: Se ajusta en la configuración predeterminada para nuevos usuarios.
+
+
+No olvides suscribirte al canal mazthertutoriales 
