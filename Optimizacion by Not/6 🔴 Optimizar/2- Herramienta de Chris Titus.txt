@@ -1,8 +1,0 @@
-Copia este Comando porfavor y Ejecutalo en el Power Shell
-
-iwr -useb https://christitus.com/win | iex
-
-
-
-❤ Aqui te enseño Como usar esta Herramienta ❤
-https://youtu.be/DRZ0lXTBDwk?si=OAM5ki900L1Ppynz
