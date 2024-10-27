@@ -1,8 +1,0 @@
-Lo que hace:
-
-Deshabilita Guardado de partidas de Xbox Live: Evita que tu computadora sincronice las partidas guardadas de los juegos con Xbox Live.
-Deshabilita Servicio de red de Xbox Live: Desactiva el servicio responsable de las funciones online relacionadas con Xbox Live en tu computadora.
-Deshabilita Servicio de administración de accesorios Xbox: Impide que tu computadora gestione los accesorios Xbox conectados a ella.
-Deshabilita Administrador de autenticación de Xbox Live: Desactiva el servicio que gestiona la autenticación de usuarios para Xbox Live en tu computadora
-
-No olvides suscribirte al canal mazthertutoriales
